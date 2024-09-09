@@ -1,0 +1,1 @@
+import"./hoisted.C22EDlod.js";import"./solid.DtSOQNAv.js";const t=document.querySelectorAll("video[autoplay]"),o=window.matchMedia("(prefers-reduced-motion: reduce)").matches;o&&t.forEach(e=>{e.removeAttribute("autoplay"),e.setAttribute("controls","true")});
